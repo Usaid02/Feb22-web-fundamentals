@@ -1,6 +1,6 @@
 package weekthird;
 import java.util.Scanner;
-public class FactorialOfIntDec {
+public class ProductOfIntDec {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Input integer: ");
